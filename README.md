@@ -1,11 +1,11 @@
 # eBook
-共24册
+共30册
 
 ## Python篇
 1. Python基础教程（第三版）
 2. Python网络爬虫权威指南（第2版）
 3. Python Crash Course
-4. Effective Python 90 Specific Ways to...
+4. Effective Python 90 Specific Ways to Write Better Python
 5. Python-pip速查表
 6. Python字符串速查表
 7. Python技术参考大全
@@ -15,6 +15,10 @@
 11. 《流畅的Python》高清官方中文版
 12. 廖雪峰 Python3教程
 13. 用Python进行自然语言处理
+14. Python知识手册
+
+## C/C++篇
+1. 密码学C/C++语言实现
 
 ## 计算机杂篇
 1. 算法图解
@@ -25,7 +29,8 @@
 
 ## 数学篇
 1. 数学女孩
-2. 程序员数学：用Python学透线性代数...
+2. 程序员数学：用Python学透线性代数和微积分
+3. 自然哲学之数学原理
 
 ## 数据科学篇
 1. 数据科学入门
